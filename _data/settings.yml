@@ -1,5 +1,5 @@
 title:  Irving Emmanuel Gonzalez
-tagline:  Blog de Irving Emmanuel Gonzalez
+tagline:  Blog
 author:
   name: 'Irving Emmanuel Gonzalez'
   twitter:  kodamirmo
@@ -11,9 +11,8 @@ disqus:
 google-ID: 'UA-50107533-1'
 
 menu:
-- {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Acerca', url: 'about.html'}
+- {name: 'Contacto', url: 'contact.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/kodamirmo'}
