@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
-categories: journal
-tags: [documentation,sample]
+title: "Recursos de mi vida diaria"
+author: "Irving Emmanuel Gonzalez"
+categories: tools
+tags: [tools, resources]
 image:
-  feature: cutting.jpg
-  teaser: cutting-teaser.jpg
+  feature: herramientas.jpg
+  teaser: herramientas-teaser.png
   credit:
   creditlink:
 ---
