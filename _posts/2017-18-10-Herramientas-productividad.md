@@ -11,4 +11,4 @@ image:
   creditlink:
 ---
 
-Hola, soy Irving Emmanuel Gonzalez.
+Links de utilidad.
