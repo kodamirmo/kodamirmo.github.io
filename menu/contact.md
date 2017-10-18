@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contacto
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+¡Hola! Si quieres contactarme para alguna pregunta, sugerencía o cualquier cosa, puedes mandarme un email a: irvingemmanuelgg[AT]gmail.com

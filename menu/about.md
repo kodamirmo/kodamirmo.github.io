@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About
+title: Acerca
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing. For more information on how to install and use this theme, check out [the documentation]
+Este blog es para compartir algunas cosas de la vida diaria, también para recordarme a mi mismo que pensaba en algún punto del tiempo.
